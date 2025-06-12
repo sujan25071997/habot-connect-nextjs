@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Evelyn Reed",
+    "specialization": "Dyslexia Support",
+    "location": "New York, NY",
+    "rating": 4.8,
+    "shortDescription": "Expert in evidence-based reading interventions for children with dyslexia.",
+    "longDescription": "Dr. Evelyn Reed holds a Ph.D. in Educational Psychology and has over 15 years of experience. She specializes in creating personalized learning plans that empower students to overcome reading challenges.",
+    "contactEmail": "e.reed@learningsolutions.com",
+    "phoneNumber": "212-555-0123"
+  },
+  {
+    "id": "2",
+    "name": "Marcus Thorne",
+    "specialization": "ADHD Coaching",
+    "location": "San Francisco, CA",
+    "rating": 4.9,
+    "shortDescription": "Certified ADHD coach focusing on executive function and self-regulation skills.",
+    "longDescription": "Marcus Thorne helps students with ADHD develop practical strategies for time management, organization, and focus. His coaching is collaborative, strength-based, and tailored to each individual's needs.",
+    "contactEmail": "m.thorne@adhd-focus.org",
+    "phoneNumber": "415-555-0456"
+  },
+  {
+    "id": "3",
+    "name": "Bright Futures Learning",
+    "specialization": "Autism Spectrum Support",
+    "location": "Chicago, IL",
+    "rating": 4.7,
+    "shortDescription": "Comprehensive support for children on the autism spectrum.",
+    "longDescription": "Bright Futures Learning offers a range of services, including social skills groups, behavioral therapy, and academic support, all designed to help children with autism thrive.",
+    "contactEmail": "contact@brightfutures.com",
+    "phoneNumber": "312-555-0789"
+  },
+  {
+    "id": "4",
+    "name": "The Reading Clinic",
+    "specialization": "Dyslexia Support",
+    "location": "Austin, TX",
+    "rating": 4.9,
+    "shortDescription": "Specialized tutoring for reading and language processing disorders.",
+    "longDescription": "The Reading Clinic uses multi-sensory teaching approaches to help students build a strong foundation in phonics, fluency, and comprehension. All programs are tailored to the student's learning style.",
+    "contactEmail": "info@readingclinic.tx",
+    "phoneNumber": "512-555-0300"
+  },
+  {
+    "id": "5",
+    "name": "Executive Function Experts",
+    "specialization": "ADHD Coaching",
+    "location": "Boston, MA",
+    "rating": 4.8,
+    "shortDescription": "Coaching for students and adults to improve organizational skills.",
+    "longDescription": "Our certified coaches work with clients to develop systems for planning, organization, and task initiation, leading to greater academic and professional success.",
+    "contactEmail": "contact@efexperts.com",
+    "phoneNumber": "617-555-0110"
+  }
+]
