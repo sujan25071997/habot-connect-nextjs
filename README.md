@@ -1,60 +1,60 @@
-Habot Connect - Learning Support Provider Directory
-This project is a simplified directory of learning support providers, built as a pre-interview assignment for a UI/UX Developer [React] role. It demonstrates a modern, responsive, and interactive web application built with Next.js and TypeScript.
+# Habot Connect - Learning Support Provider Directory
 
-🚀 Live Demo
-https://habot-connect-nextjs.vercel.app/
+A responsive and interactive directory of learning support providers, built with Next.js and TypeScript as a pre-interview assignment for a UI/UX Developer [React] role.
 
-📋 About The Project
-This application allows parents to easily browse a list of learning support providers, search for specific services based on name or specialization, and view a detailed profile for each provider. The project focuses on creating a clean user interface, a smooth user experience, and a robust, modern codebase.
+---
 
-✨ Features
-Provider Directory: A responsive, searchable list of all available providers.
+## 🚀 Live Demo
 
-Dynamic Search: Filter providers in real-time by name or specialization.
+[https://habot-connect-nextjs.vercel.app/](https://habot-connect-nextjs.vercel.app/)
 
-Detailed View: A dedicated page for each provider with complete information, including a long description and contact details.
+---
 
-Modern UI/UX: Includes interactive elements like skeleton loading screens, icon-based information, and smooth page transitions.
+## ✨ Features
 
-Error Handling: A clean 404 "Not Found" page is shown if a provider ID is invalid.
+- **Provider Directory:** A responsive, searchable list of all available providers.
+- **Dynamic Search:** Filter providers in real-time by name or specialization.
+- **Detailed View:** A dedicated page for each provider with complete information.
+- **Modern UI/UX:** Includes skeleton loading screens, icon-based information, and smooth page transitions.
+- **Error Handling:** A clean 404 "Not Found" page for invalid provider IDs.
+- **Responsive Design:** Optimized for mobile, tablet, and desktop devices.
 
-Responsive Design: The layout is optimized for a seamless experience on mobile, tablet, and desktop devices.
+---
 
-🛠️ Tech Stack
-Framework: Next.js 14+ (App Router)
+## 🛠️ Tech Stack
 
-Language: TypeScript
+**Framework:** Next.js 14+ | **Language:** TypeScript | **UI Library:** React 19 | **Styling:** Global CSS | **Icons:** React Icons | **Deployment:** Vercel
 
-UI Library: React 19
+---
 
-Styling: Global CSS with a mobile-first approach.
+## ⚙️ Getting Started Locally
 
-Icons: React Icons
+### Prerequisites
 
-Deployment: Vercel
+- Node.js (v18 or later)
+- npm
 
-⚙️ Getting Started Locally
-To get a local copy up and running, follow these simple steps.
+### Installation & Setup
 
-Prerequisites
-You will need to have Node.js (version 18 or later) and npm installed on your machine.
+1.  **Clone the repository:**
 
-Installation
-Clone the repository:
+    ```sh
+    git clone [https://github.com/sujan25071997/habot-connect-nextjs.git](https://github.com/sujan25071997/habot-connect-nextjs.git)
+    ```
 
-git clone [https://github.com/sujan25071997/habot-connect-nextjs.git](https://github.com/sujan25071997/habot-connect-nextjs.git)
+2.  **Navigate into the directory:**
 
-Navigate to the project directory:
+    ```sh
+    cd habot-connect-nextjs
+    ```
 
-cd habot-connect-nextjs
+3.  **Install dependencies:**
+    ```sh
+    npm install
+    ```
 
-Install NPM packages:
+### Run the Application
 
-npm install
-
-Running the Application
-To start the development server, run:
-
+```sh
 npm run dev
-
-Open http://localhost:3000 with your browser to see the result.
+```
